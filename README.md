@@ -1,2 +1,0 @@
-# LifeMap
-Created with CodeSandbox
